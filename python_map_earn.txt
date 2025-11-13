@@ -1,0 +1,26 @@
+مفاهیم پیشرفته پایتون
+List Comprehension و Generator Expressions: نوشتن کدهای کوتاه، سریع و خوانا برای ساخت لیست‌ها و تولید داده‌ها.
+
+Lambda Functions، Map، Filter، Reduce: توابع ناشناس و پردازش داده‌ها به سبک functional programming.
+
+Decorators: افزودن رفتار به توابع بدون تغییر کد اصلی.
+
+Closures: توابعی که داده‌های محیط اطراف خود را به خاطر می‌سپارند.
+
+Context Managers (with statement): مدیریت منابع مثل فایل‌ها یا اتصال‌ها به‌صورت امن.
+
+Iterators و Generators: ساخت ساختارهای قابل پیمایش با حافظه کم.
+
+Regular Expressions: جستجو و پردازش متن با الگوهای پیچیده.
+
+Metaclasses: کنترل نحوه ساخت کلاس‌ها؛ مناسب برای فریم‌ورک‌نویسی.
+
+Concurrency: کار با asyncio, threading, و multiprocessing برای اجرای هم‌زمان وظایف.
+
+Memory Management: درک garbage collection، reference counting و بهینه‌سازی مصرف حافظه.
+
+Type Hinting و Static Analysis: استفاده از typing برای نوشتن کد قابل‌پیش‌بینی و قابل‌تست.
+
+Testing و Debugging: کار با unittest, pytest, pdb برای تست و رفع اشکال.
+
+Packaging و Deployment: ساخت پکیج‌های قابل نصب با setup.py, pip, و virtualenv.
